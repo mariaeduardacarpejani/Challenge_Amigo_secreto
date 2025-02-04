@@ -91,7 +91,7 @@
 <h3>GitHub Pages</h3>
 <p>O projeto está hospedado no GitHub Pages e pode ser acessado diretamente pelo link:</p>
 <p>
-  <a href="https://seu-usuario.github.io/amigo-secreto" target="_blank">👉 Acessar Amigo Secreto</a>
+  <a href="https://mariaeduardacarpejani.github.io/Challenge_Amigo_secreto/">👉 Acessar Amigo Secreto</a>
 </p>
 
 ---
@@ -150,5 +150,5 @@
 
 <h3>Link do Projeto no GitHub Pages:</h3>
 <p>
-  <a href="https://seu-usuario.github.io/amigo-secreto" target="_blank">👉 Acessar Amigo Secreto</a>
+  <a href="https://mariaeduardacarpejani.github.io/Challenge_Amigo_secreto/">👉 Acessar Amigo Secreto</a>
 </p>
