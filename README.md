@@ -88,54 +88,11 @@
 
 <h2>Como Executar o Projeto </h2>
 
-<h3>Opção 1: GitHub Pages</h3>
+<h3>GitHub Pages</h3>
 <p>O projeto está hospedado no GitHub Pages e pode ser acessado diretamente pelo link:</p>
 <p>
   <a href="https://seu-usuario.github.io/amigo-secreto" target="_blank">👉 Acessar Amigo Secreto</a>
 </p>
-
-<h3>Opção 2: Localmente</h3>
-<ol>
-  <li>
-    <strong>Clone o repositório</strong>:
-    <pre><code>git clone https://github.com/seu-usuario/amigo-secreto.git</code></pre>
-  </li>
-  <li>
-    <strong>Abra o projeto</strong>:
-    <ul>
-      <li>Navegue até a pasta do projeto e abra o arquivo <code>index.html</code> no seu navegador.</li>
-    </ul>
-  </li>
-  <li>
-    <strong>Use a aplicação</strong>:
-    <ul>
-      <li>Siga as instruções descritas na seção <strong>Como Usar</strong>.</li>
-    </ul>
-  </li>
-</ol>
-
----
-
-<h2>Estrutura do Projeto </h2>
-
-<pre>
-amigo-secreto/
-│
-├── index.html          # Página principal do projeto
-├── style.css           # Estilos da aplicação
-├── app.js              # Lógica de programação em JavaScript
-├── README.md           # Documentação do projeto
-└── assets/             # Pasta para imagens ou outros recursos
-</pre>
-
----
-
-<h2>Requisitos ✅</h2>
-
-<ul>
-  <li>Navegador moderno (Chrome, Firefox, Edge, etc.).</li>
-  <li>Conexão com a internet (caso utilize bibliotecas externas ou fontes).</li>
-</ul>
 
 ---
 
