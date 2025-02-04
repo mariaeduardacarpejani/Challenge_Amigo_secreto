@@ -86,16 +86,6 @@
 
 ---
 
-<h2>Como Executar o Projeto </h2>
-
-<h3>GitHub Pages</h3>
-<p>O projeto está hospedado no GitHub Pages e pode ser acessado diretamente pelo link:</p>
-<p>
-  <a href="https://mariaeduardacarpejani.github.io/Challenge_Amigo_secreto/">👉 Acessar Amigo Secreto</a>
-</p>
-
----
-
 <h2>Contribuição 🤝</h2>
 
 <p>Contribuições são bem-vindas! Se você quiser melhorar o projeto, siga os passos abaixo:</p>
@@ -145,10 +135,3 @@
     </ul>
   </li>
 </ol>
-
----
-
-<h3>Link do Projeto no GitHub Pages:</h3>
-<p>
-  <a href="https://mariaeduardacarpejani.github.io/Challenge_Amigo_secreto/">👉 Acessar Amigo Secreto</a>
-</p>
